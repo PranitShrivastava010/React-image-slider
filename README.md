@@ -1,13 +1,51 @@
-# React + Vite
+# React Image Slider
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Image Slider** built using **React.js**.  
+Users can navigate images manually using Next/Previous buttons or by clicking on circle indicators.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Smooth image transitions
+- Manual navigation:
+  - **Next** and **Previous** buttons
+  - **Clickable circle indicators** to jump to any slide
+- Fully responsive design
+- Clean and minimal UI
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# React-image-slider
+- **React.js** (with Hooks)
+- **CSS** for styling
+
+## 📸 Preview
+
+> https://drive.google.com/file/d/1yGcVt196xBzDFzVWg5u31SSQP99qpasq/view?usp=sharing
+
+## 🔥 Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/PranitShrivastava010/React-image-slider.git
+   ```
+
+2. **Navigate to the project directory**
+   ```bash
+   cd React-image-slider
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+Now open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+
+
+**Made with ❤️ by [Pranit Shrivastava](https://github.com/PranitShrivastava010)**
